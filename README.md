@@ -1,4 +1,3 @@
-# breastcancer
 # 🩺 AI-Powered Breast Cancer Diagnosis Platform
 
 A modern web application for breast cancer diagnosis using machine learning and deep learning models. The platform supports both tabular clinical data (Wisconsin Breast Cancer Dataset) and mammogram image analysis.
